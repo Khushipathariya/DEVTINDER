@@ -1,0 +1,20 @@
+{
+  "name": "devmeett",
+  "version": "1.0.0",
+  "description": "Meet for devs",
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "react"
+  ],
+  "license": "ISC",
+  "author": "Khushi Pathariya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
